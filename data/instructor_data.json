@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Carly Rae Jepson",
+    "age": 25,
+    "skills": ["quantum physics", "spelling", "singin'"]
+  },
+  {
+    "name": "Bill Nye",
+    "age": 67,
+    "skills": ["bow tie tying", "labcoat wearing", "taking down creationists"]
+  },
+  {
+    "name": "Greg Korte",
+    "age": 29,
+    "skills": ["listening", "pointing", "finding tiny, tiny errors"]
+  }
+]
+

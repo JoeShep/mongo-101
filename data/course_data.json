@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Quantum Computing 304",
+    "instructor": null,
+    "days": ["M", "W", "Th"]
+  },
+  {
+    "name": "Loops, IIFEs, and Modules, Oh My",
+    "instructor": null,
+    "days": ["T", "Th", "Sa"]
+  },
+  {
+    "name": "Cryptozoology in the 21st Century: Is Bigfoot a Hipster?",
+    "instructor": null,
+    "days": ["W", "F", "Su"]
+  }
+]
+

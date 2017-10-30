@@ -3,7 +3,7 @@
 const mongoose = require('../mongoose-quickstart');
 
 // Mongoose models accept two arguments, a string, which will be the name of our model, and a schema
-const Student = mongoose.model('Student', {
+const Instructor = mongoose.model('Instructor', {
   name: {
     type: String,
     required: true,
@@ -13,4 +13,4 @@ const Student = mongoose.model('Student', {
   skills: [String] //<--- an array of strings. Saving arrays in a db? Sacrilege!,
 });
 
-module.exports = Student;
+module.exports = Instructor;
